@@ -1,2 +1,1 @@
-﻿# summer-camp-server-link:
-"# SportEX-client" 
+﻿# SportEx-server
